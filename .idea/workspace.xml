@@ -1,8 +1,309 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a0a475fc-4c27-4064-8545-1bbbaf6905b7" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="a0a475fc-4c27-4064-8545-1bbbaf6905b7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AdHocPractice/Addition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AdHocPractice/DoAddition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AdHocPractice/MileConversion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AdHocPractice/MileConvertor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AdHocPractice/Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AdHocPractice/Practice2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day38/AddAllMethodPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day38/ArrayListBulkOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day38/ArrayListPracticeShortWay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day38/ListObjectEqualityCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day38/RemoveAllMethodPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day38/RetainAllMethodPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day38/ReversingAList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day38/SortingAListObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day41/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day41/ProductDescription.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SearchingSomethingInString2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SearchingSomethingInString3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day21/DecidingWhenToStop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day21/LoopControlStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day21/LoopControlStatement2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day21/NameBreaker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day21/NestedLoopIntro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day21/NumStairCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day21/OddNumPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day21/SkipAll5s.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day21/WakeUpTask1_NamePrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day22/ArrayIntro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day22/CanvasDayModuleLinkGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day22/LoopControlStatementWithMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day22/MultiplicationTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day23/ForEachLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day23/ForLoopPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day23/ForLoopPracticeFindMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day23/StringArrayPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day23/StringArrayPractice_ClassCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day23/WarmUp_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day24/ArrayMwthodSorting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day24/ArraysEquality.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day25/CheckIfArrayIsSortedOrNot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day25/FindLongestWordInASentence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day25/StringSplitMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day25/StringToCharArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day25/StringToCharArrayMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day25/WarmUpTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day26/ArrayReview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day26/ReverseAnArrayBySwapping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day26/SplitPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day26/SwappingValues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day27/ArrayReview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day27/ArrayTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day27/ArrayTask2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day27/ArrayTask2MaxNumLookUp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day27/Multi3DimensionalArraysPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day27/MultiDArraysPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day27/MultiDimensionalArrayIntro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day27/MultiDimensionalArrays3D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day27/MultiDimensionalArraysPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day27/MultiDimensionalArraysPractice2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day27/Multi_D_Arrays_Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day29/FillingUpArrayValues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day29/FillingUpArrayValuesWithEvenNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day29/HeroIdentity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day29/HeroIdentity2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day29/HeroIdentityJusticeLeague.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day29/ILoveJavaStringFillingInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day29/StringPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day30/ArrayReview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day30/CarInventory_1000Count.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day31/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day31/Calculator2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day31/CallingOneMethodInsideAnother.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day31/Greeting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day31/MethodCreation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day31/MethodPractice2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day31/MethodsLibrary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day31/SeasonChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day31/Voting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day32/ArrayPracticeWithMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day32/MethodWithReturnIntro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day32/MethodWithReturnTypePractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day34/LoginActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day34/LoginActivityMethodCall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day34/MathActionFromJDK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day37/ArrayListLoopPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day37/ArrayListRemoveItemPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day37/ArrayListWithStringMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day37/MethodOverloadingWithWrapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day37/MethodWithArrayListAsReturnType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day37/MethodWithArrayListParameter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day37/PriceListUpdateValuePractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day37/TeamMateListPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day39/ArrayListPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day39/CarAtributes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day39/Garage2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day39/SplitPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day39/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day39/StudentCreation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day40/AtTheBank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day40/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day40/HotMarketActions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day40/HotMarketActions2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day40/HotMarketActions3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day40/HotMarketActions4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day40/Offers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day40/SpaceBattle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day40/SpaceShip.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day43/Coffee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day43/MovieActions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day43/MovieUtility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day43/Pet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day43/PetStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day43/Starbucks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day43/StarbucksUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day44/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day44/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day44/CourseCreator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day44/CyberHouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day44/HouseBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day44/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day44/PersonAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day44/SlackUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day44/Train.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day44/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day44/sub/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day44/sub/SlackAdminUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day45/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day45/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day45/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day45/Earth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day45/ElectricCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day45/Electronic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day45/Fruit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day45/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day45/Planet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day46/AtTheBAnak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day46/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day46/CheckingAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day46/JavaProgrammer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day46/Programmer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day46/SQLProgrammer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day46/SavingAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day47/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day47/ElectricCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day47/ExtremeSport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day47/FinalVariablesPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day47/Garage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day47/GasCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day47/Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day47/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day47/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day47/ShapeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day47/Sport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day47/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day47/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day48/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day48/Ball.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day48/BoucingParty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day48/Bounceable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day48/BoxerWIthBellyPouch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day48/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day48/EmployeesClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day48/Flyables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day48/FullTimeEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day48/HR_Activities.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day48/HourlyEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day48/Kangaroo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day48/Kite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day48/Lion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day48/Mammals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day48/Plane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day48/Superman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day49/AtTheRestaurant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day49/Autonomous.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day49/Burger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day49/Edible.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day49/IceCream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day49/Juicy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day49/MainCars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day49/Tesla.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day49/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day50/Addition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day50/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day50/Division.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day50/Drawable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day50/MainForShape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day50/MathTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day50/Multiplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day50/Question.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day50/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day50/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day50/Subtraction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day51/ComparableString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day51/polymorphism/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day51/polymorphism/AnimalShow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day51/polymorphism/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day51/polymorphism/ShapeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day52/Polymorphism/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day52/Polymorphism/Drawable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day52/Polymorphism/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day52/Polymorphism/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day52/Polymorphism/ShapePolymorphism.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day52/Polymorphism/ShapePolymorphism2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day52/Polymorphism/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day52/Warmup/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day52/Warmup/AccountListSorting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day52/Warmup/BankTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day52/Warmup/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day52/Warmup/Transferable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day52/books/AudioBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day52/books/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day52/books/KnowledgeExchange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day52/books/PaperBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day52/books/Readable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day52/books/knowledgeBank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day53/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day53/Fruit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day53/FruitShop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day53/Orange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/officeHours/BofATeams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/officeHours/Day23_12_09_ArrayPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/officeHours/Day25_12_10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/officeHours/Day26_ArraysReview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/officeHours/Day28_ArraysPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/officeHours/Day34_12_27_MethodPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/officeHours/Practice_01_09_2020.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/officeHours/Practice_01_27_20/FinalKeyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/officeHours/Practice_01_27_20/This_Keyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/officeHours/Practice_20_01_08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/officeHours/Practice_20_01_08_Task_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/officeHours/Practice_20_01_08_Task_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/officeHours/ScrumTeam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/officeHours/Teams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/officeHours/UserInfo_01_16_20/UserInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/officeHours/day30_12_18_Review.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/office_hour/Practice_16_1_2020/TestUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/office_hour/String_RemoveDup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/office_hour/day53OfficeHour_02_04_20/Device.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/office_hour/day53OfficeHour_02_04_20/DeviceStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/office_hour/day53OfficeHour_02_04_20/Samsung.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/office_hour/day53OfficeHour_02_04_20/iPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tasks/CapitalOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tasks/Developers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tasks/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tasks/Movie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tasks/ScrumTeam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tasks/TaskPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tasks/TaskPractice2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tasks/Task_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tasks/Task_1String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tasks/Testers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/day03/Practice04.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/day04/ArethmeticOperators.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/day04/Practice01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/day05_Practice/ConversionPractice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/day05_Practice/Practice01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/day05_Practice/ScannerPractice_NextBoolean.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/day05_Practice/TheScannerWay.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/day05_Practice/VariablePracice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/day06/CoinConverter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/day06/CompoundOperator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/day06/CreatePrices.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/day06/NexLine_nextX_MixtureProblem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/day06/OddOrEven.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/day06/PreIncrementDecrementOperator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/day06/Remainder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/day06/ScannerCapturingMultipleWord.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/day06/UsingTheValueOfOtherNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/day07/Casting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/day07/CastingMyNameCharacters.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/day07/EmailBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/day07/IncrementAndDecrement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/day07/IntroToElseStatement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/day07/IntroToIfStatement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/day07/RelationalOperator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/day07/RelationalOperator_With_Variable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/day08/IfElseStatement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/day08/JustIfStatement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/day08/MultiBranchIfStatement_SpeedTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/day08/OfficeHour.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/day08/WarmUpTask.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/day09/CitizenTypeChecker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/day09/EvenOddFinder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/day09/src/DayPrinter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/day09/src/DayPrinter_V2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/day09/src/InitializingAVariable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/day09/src/LanguagePicker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/day09/src/LanguagePickerWithSwitchStatement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/day10/Calculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/day10/MultiBranchPractice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/day10/MultiBranchPractice_WithSwitch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/day10/SeasonsAndToDos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/day10/WarmUpTask_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/day11/Switch_Review.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day03/Practice04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day03/Practice04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day19/ForLoop_Staircase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day19/ForLoop_Staircase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day19/SumOfAllNumbersWithinTheRange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day19/SumOfAllNumbersWithinTheRange.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,36 +312,58 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="package-info" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
   <component name="ProjectId" id="1TOnsbmswfQ3LpBmxhjgpO0E3ID" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/day52/Polymorphism" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="day53" />
+      <recent name="day44" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="tasks" />
+      <recent name="day52.Warmup" />
+      <recent name="day50" />
+      <recent name="day44.sub" />
+      <recent name="day44" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/day52/Polymorphism" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.Switch_Review">
-    <configuration name="Switch_Review" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day11.Switch_Review" />
+  <component name="RunManager" selected="Application.FruitShop">
+    <configuration name="CapitalOne (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="office_hour.day53_02_03_20.CapitalOne" />
       <module name="untitled1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day11.*" />
+          <option name="PATTERN" value="office_hour.day53_02_03_20.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -48,12 +371,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WarmUpTask_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day10.WarmUpTask_1" />
+    <configuration name="CapitalOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tasks.CapitalOne" />
       <module name="untitled1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day10.*" />
+          <option name="PATTERN" value="tasks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeviceStore" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="office_hour.day53OfficeHour_02_04_20.DeviceStore" />
+      <module name="untitled1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="office_hour.day53OfficeHour_02_04_20.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FruitShop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day53.FruitShop" />
+      <module name="untitled1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day53.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="apple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="office_hour.day53_02_03_20.apple" />
+      <module name="untitled1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="office_hour.day53_02_03_20.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -63,10 +425,25 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Switch_Review" />
-        <item itemvalue="Application.WarmUpTask_1" />
+        <item itemvalue="Application.FruitShop" />
+        <item itemvalue="Application.DeviceStore" />
+        <item itemvalue="Application.CapitalOne (1)" />
+        <item itemvalue="Application.apple" />
+        <item itemvalue="Application.CapitalOne" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -80,5 +457,105 @@
       <updated>1573340216814</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="95" width="800" height="717" key="#Intentions" timestamp="1580862112910">
+      <screen x="0" y="23" width="1440" height="814" />
+    </state>
+    <state x="320" y="95" width="800" height="717" key="#Intentions/1440.-157.1920.1057/0.23.1440.814@0.23.1440.814" timestamp="1580862112910" />
+    <state x="479" y="139" width="481" height="664" key="#com.intellij.ide.util.MemberChooser" timestamp="1580866922739">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="479" y="138" key="#com.intellij.ide.util.MemberChooser/0.23.1440.812@0.23.1440.812" timestamp="1579475237367" />
+    <state x="479" y="138" key="#com.intellij.ide.util.MemberChooser/0.23.1440.814@0.23.1440.814" timestamp="1580678871981" />
+    <state x="479" y="139" key="#com.intellij.ide.util.MemberChooser/0.23.1440.816@0.23.1440.816" timestamp="1580796583119" />
+    <state x="479" y="139" key="#com.intellij.ide.util.MemberChooser/0.23.1440.822@0.23.1440.822" timestamp="1580764906029" />
+    <state x="479" y="138" width="481" height="664" key="#com.intellij.ide.util.MemberChooser/1440.-157.1920.1057/0.23.1440.812@0.23.1440.812" timestamp="1579647494931" />
+    <state x="479" y="138" key="#com.intellij.ide.util.MemberChooser/1440.-157.1920.1057/0.23.1440.814@0.23.1440.814" timestamp="1580862736642" />
+    <state x="479" y="138" key="#com.intellij.ide.util.MemberChooser/1440.-157.1920.1057/0.23.1440.816@0.23.1440.816" timestamp="1580858399745" />
+    <state x="479" y="139" key="#com.intellij.ide.util.MemberChooser/1440.-157.1920.1057/0.23.1440.821@0.23.1440.821" timestamp="1580866922739" />
+    <state x="458" y="183" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1579646462544">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state x="458" y="183" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1440.-157.1920.1057/0.23.1440.812@0.23.1440.812" timestamp="1579646462544" />
+    <state x="345" y="30" key="CommitChangelistDialog2" timestamp="1580879476882">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state x="345" y="30" key="CommitChangelistDialog2/0.23.1440.816@0.23.1440.816" timestamp="1580879476882" />
+    <state width="1398" height="158" key="GridCell.Tab.0.bottom" timestamp="1580867796878">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1398" height="161" key="GridCell.Tab.0.bottom/0.23.1440.812@0.23.1440.812" timestamp="1579686858199" />
+    <state width="1398" height="160" key="GridCell.Tab.0.bottom/0.23.1440.814@0.23.1440.814" timestamp="1580682047216" />
+    <state width="1398" height="160" key="GridCell.Tab.0.bottom/0.23.1440.816@0.23.1440.816" timestamp="1580804817429" />
+    <state width="1398" height="160" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1580765730816" />
+    <state width="1398" height="161" key="GridCell.Tab.0.bottom/1440.-157.1920.1057/0.23.1440.812@0.23.1440.812" timestamp="1579647423604" />
+    <state width="1398" height="158" key="GridCell.Tab.0.bottom/1440.-157.1920.1057/0.23.1440.814@0.23.1440.814" timestamp="1580864012100" />
+    <state width="1398" height="160" key="GridCell.Tab.0.bottom/1440.-157.1920.1057/0.23.1440.816@0.23.1440.816" timestamp="1580664836188" />
+    <state width="1398" height="158" key="GridCell.Tab.0.bottom/1440.-157.1920.1057/0.23.1440.821@0.23.1440.821" timestamp="1580867796878" />
+    <state width="1398" height="158" key="GridCell.Tab.0.center" timestamp="1580867796874">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1398" height="161" key="GridCell.Tab.0.center/0.23.1440.812@0.23.1440.812" timestamp="1579686858198" />
+    <state width="1398" height="160" key="GridCell.Tab.0.center/0.23.1440.814@0.23.1440.814" timestamp="1580682047214" />
+    <state width="1398" height="160" key="GridCell.Tab.0.center/0.23.1440.816@0.23.1440.816" timestamp="1580804817427" />
+    <state width="1398" height="160" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1580765730814" />
+    <state width="1398" height="161" key="GridCell.Tab.0.center/1440.-157.1920.1057/0.23.1440.812@0.23.1440.812" timestamp="1579647423602" />
+    <state width="1398" height="158" key="GridCell.Tab.0.center/1440.-157.1920.1057/0.23.1440.814@0.23.1440.814" timestamp="1580864012098" />
+    <state width="1398" height="160" key="GridCell.Tab.0.center/1440.-157.1920.1057/0.23.1440.816@0.23.1440.816" timestamp="1580664836178" />
+    <state width="1398" height="158" key="GridCell.Tab.0.center/1440.-157.1920.1057/0.23.1440.821@0.23.1440.821" timestamp="1580867796874" />
+    <state width="1398" height="158" key="GridCell.Tab.0.left" timestamp="1580867796872">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1398" height="161" key="GridCell.Tab.0.left/0.23.1440.812@0.23.1440.812" timestamp="1579686858198" />
+    <state width="1398" height="160" key="GridCell.Tab.0.left/0.23.1440.814@0.23.1440.814" timestamp="1580682047210" />
+    <state width="1398" height="160" key="GridCell.Tab.0.left/0.23.1440.816@0.23.1440.816" timestamp="1580804817426" />
+    <state width="1398" height="160" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1580765730814" />
+    <state width="1398" height="161" key="GridCell.Tab.0.left/1440.-157.1920.1057/0.23.1440.812@0.23.1440.812" timestamp="1579647423600" />
+    <state width="1398" height="158" key="GridCell.Tab.0.left/1440.-157.1920.1057/0.23.1440.814@0.23.1440.814" timestamp="1580864012097" />
+    <state width="1398" height="160" key="GridCell.Tab.0.left/1440.-157.1920.1057/0.23.1440.816@0.23.1440.816" timestamp="1580664836177" />
+    <state width="1398" height="158" key="GridCell.Tab.0.left/1440.-157.1920.1057/0.23.1440.821@0.23.1440.821" timestamp="1580867796872" />
+    <state width="1398" height="158" key="GridCell.Tab.0.right" timestamp="1580867796876">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1398" height="161" key="GridCell.Tab.0.right/0.23.1440.812@0.23.1440.812" timestamp="1579686858199" />
+    <state width="1398" height="160" key="GridCell.Tab.0.right/0.23.1440.814@0.23.1440.814" timestamp="1580682047215" />
+    <state width="1398" height="160" key="GridCell.Tab.0.right/0.23.1440.816@0.23.1440.816" timestamp="1580804817428" />
+    <state width="1398" height="160" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1580765730815" />
+    <state width="1398" height="161" key="GridCell.Tab.0.right/1440.-157.1920.1057/0.23.1440.812@0.23.1440.812" timestamp="1579647423603" />
+    <state width="1398" height="158" key="GridCell.Tab.0.right/1440.-157.1920.1057/0.23.1440.814@0.23.1440.814" timestamp="1580864012099" />
+    <state width="1398" height="160" key="GridCell.Tab.0.right/1440.-157.1920.1057/0.23.1440.816@0.23.1440.816" timestamp="1580664836186" />
+    <state width="1398" height="158" key="GridCell.Tab.0.right/1440.-157.1920.1057/0.23.1440.821@0.23.1440.821" timestamp="1580867796876" />
+    <state x="229" y="69" key="SettingsEditor" timestamp="1579555501738">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state x="229" y="69" key="SettingsEditor/0.23.1440.812@0.23.1440.812" timestamp="1579555501738" />
+    <state x="229" y="69" key="SettingsEditor/0.23.1440.816@0.23.1440.816" timestamp="1576573405353" />
+    <state x="229" y="69" key="SettingsEditor/1440.-157.1920.1057/0.23.1440.814@0.23.1440.814" timestamp="1578903649183" />
+    <state x="320" y="170" key="Vcs.Push.Dialog.v2" timestamp="1580594191250">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state x="320" y="170" key="Vcs.Push.Dialog.v2/0.23.1440.816@0.23.1440.816" timestamp="1580594191250" />
+    <state x="100" y="123" width="1240" height="614" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1580266766015">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state x="100" y="123" width="1240" height="614" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1440.816@0.23.1440.816" timestamp="1580266766015" />
+    <state x="100" y="123" width="1240" height="612" key="dock-window-1" timestamp="1579648937825">
+      <screen x="0" y="23" width="1440" height="814" />
+    </state>
+    <state x="100" y="123" width="1240" height="612" key="dock-window-1/0.23.1440.814@0.23.1440.814" timestamp="1579648937825" />
+    <state width="600" height="426" key="javadoc.popup" timestamp="1580668170321">
+      <screen x="0" y="23" width="1440" height="814" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/0.23.1440.812@0.23.1440.812" timestamp="1579467204245" />
+    <state width="600" height="426" key="javadoc.popup/0.23.1440.814@0.23.1440.814" timestamp="1580668170321" />
+    <state x="385" y="161" width="670" height="678" key="search.everywhere.popup" timestamp="1579466125669">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state x="385" y="161" width="670" height="676" key="search.everywhere.popup/0.23.1440.814@0.23.1440.814" timestamp="1578526605433" />
+    <state x="385" y="161" width="670" height="678" key="search.everywhere.popup/0.23.1440.816@0.23.1440.816" timestamp="1579466125669" />
   </component>
 </project>
