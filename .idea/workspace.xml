@@ -2,193 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a0a475fc-4c27-4064-8545-1bbbaf6905b7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/JavaProgrammingB15Online.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AdHocPractice/AssociationExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AdHocPractice/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AdHocPractice/ConstructorPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AdHocPractice/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AdHocPractice/MethodsAction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AdHocPractice/MethodsAndArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AdHocPractice/ReplAssignment181.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AdHocPractice/ReplAssignment183.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AdHocPractice/ReplAssignment184.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AdHocPractice/ReplAssignment_179.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AdHocPractice/ReplAssignment_180.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AdHocPractice/ReplAssignment_182.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AdHocPractice/ReplAssignment_185.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AdHocPractice/ReplAssignment_186.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AdHocPractice/School.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AdHocPractice/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AdHocPractice/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day54/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day54/AnimalShow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day54/IndoorPet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day54/interface_as_reference/Clothes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day54/interface_as_reference/Cosmetics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day54/interface_as_reference/Makeups.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day54/interface_as_reference/Perfume.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day54/interface_as_reference/Utility.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day54/interface_as_reference/Utility2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day54/interface_as_reference/Watch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day54/interface_as_reference/Wearable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day54/selenium_codes/Automation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day54/selenium_codes/ChromeDriver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day54/selenium_codes/FireFoxDriver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day54/selenium_codes/SafariDriver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day54/selenium_codes/WebDriver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day55/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day55/Casting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day55/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day55/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day55/Practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day55/Taxi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day55/TaxiAction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day55/association2/Course.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day55/association2/CourseRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day55/association2/CourseX.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day55/association2/CourseXRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day55/association2/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day56/ListPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day56/Product 2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day56/Product2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day56/ProductListPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day56/Singleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day56/StoreTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day56/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day57/ExceptionExamples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day58/FileNotFoundDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day58/RunTimeErrorDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day58/TryCatchFinally.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day59/CheckedAndUnchecked.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day59/DangerZone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day59/ExceptionPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day59/FinallyBlock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day59/General.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day59/ThrowingExceptionProgrammatically.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day60/MoreExceptions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day61/CollectionContinued.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day61/Job.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day61/JobHunter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day61/List_LinkedListImplementation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day62/JobTreeSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day62/LinkedHashSetImplementation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day62/SetInterface2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day62/SetIntro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day62/SetOfUniqueStates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day62/SetOfUniqueStates_Deleting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day63/FindingUnique.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day63/FrequencyOfCharacters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day63/GroceryActions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day63/MapAddingElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day63/MapIntro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day63/Practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day63/ReadingFilePractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day63/WordFrequency.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day63/WordFrequencyFromTheFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day63/WordFrequencyMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day63/employeeData.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day64/IteratingOverMapUsingLambda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day64/LinkedHashMapPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day64/MapEntrySetView_Practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day64/MapKeySetView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day64/MapKeySetView_MapIteration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day64/MapPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day64/MapTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day64/Map_ValuesView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day64/Map_entrySet_view.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day64/Map_valuesView2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day64/QueueInterfaceDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day64/RepresentingTableDAta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day64/SortedMapPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/office_hour/officHour_02_19_20/IteratorPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/office_hour/officeHour_02_10_20/AssociationExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/office_hour/officeHour_02_10_20/School.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/office_hour/officeHour_02_10_20/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/office_hour/officeHour_02_10_20/TestRectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/office_hour/officeHour_02_11_20/Child.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/office_hour/officeHour_02_11_20/Family.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/office_hour/officeHour_02_11_20/Parent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/office_hour/officehour_02_06_20/California.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/office_hour/officehour_02_06_20/Kentucky.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/office_hour/officehour_02_06_20/States.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/office_hour/officehour_02_06_20/StatesTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/office_hour/officehour_02_06_20/TheFed.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tasks/Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tasks/ArrayPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tasks/PasswordValidationTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tasks/task_3_Muhtar/Developers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tasks/task_3_Muhtar/Employees.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tasks/task_3_Muhtar/ScrumTeam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tasks/task_3_Muhtar/Testers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WebTestDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/DoWhileAtLeastRunOnce.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/DoWhileIntro.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/SearchingSomethingInString.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/SearchingSomethingInString2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/SearchingSomethingInString3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/day_28/ExcelVisualizer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/day_28/ExcelVisualizer2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/officeHours/BofATeams.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/officeHours/Day23_12_09_ArrayPractice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/officeHours/Day25_12_10.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/officeHours/Day26_ArraysReview.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/officeHours/Day28_ArraysPractice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/officeHours/Day34_12_27_MethodPractice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/officeHours/PersonClass_1_13_20.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/officeHours/PersonTesting_1_13_20.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/officeHours/Practice_01_01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/officeHours/Practice_01_09_2020.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/officeHours/Practice_01_27_20/FinalKeyword.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/officeHours/Practice_01_27_20/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/officeHours/Practice_01_27_20/This_Keyword.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/officeHours/Practice_01_27_20/data.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/officeHours/Practice_20_01_08.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/officeHours/Practice_20_01_08_Task_2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/officeHours/Practice_20_01_08_Task_3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/officeHours/ScrumTeam.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/officeHours/Teams.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/officeHours/UserInfo_01_16_20/UserInfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/officeHours/day30_12_18_Review.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/officeHours/office_hour_01_15/Teacher.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/officeHours/office_hour_01_15/TeacherTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/office_hour/Practice_16_1_2020/TestUser.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/office_hour/day53OfficeHour_02_04_20/Device.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/office_hour/day53OfficeHour_02_04_20/DeviceStore.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/office_hour/day53OfficeHour_02_04_20/Samsung.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/office_hour/day53OfficeHour_02_04_20/iPhone.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/office_hour/day53_02_03_20/BA.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/office_hour/day53_02_03_20/BOA.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/office_hour/day53_02_03_20/CapitalOne.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/office_hour/day53_02_03_20/Developers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/office_hour/day53_02_03_20/ScrumTeam.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/office_hour/day53_02_03_20/Testers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/office_hour/day53_02_03_20/apple.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DoWhileAtLeastRunOnce.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tasks/DoWhileAtLeastRunOnce.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DoWhileIntro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tasks/DoWhileIntro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SearchingSomethingInString2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tasks/SearchingSomethingInString2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SearchingSomethingInString3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tasks/SearchingSomethingInString3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/officeHours/BofATeams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/office_hour/BofATeams.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/officeHours/Day23_12_09_ArrayPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/office_hour/Day23_12_09_ArrayPractice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/officeHours/Day25_12_10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/office_hour/Day25_12_10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/officeHours/Day26_ArraysReview.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/office_hour/Day26_ArraysReview.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/officeHours/Day28_ArraysPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/office_hour/Day28_ArraysPractice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/officeHours/Day34_12_27_MethodPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/office_hour/Day34_12_27_MethodPractice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/officeHours/Practice_01_09_2020.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/office_hour/Practice_01_09_2020.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/officeHours/Practice_01_27_20/FinalKeyword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/office_hour/officeHour_01_27_20/FinalKeyword.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/officeHours/Practice_01_27_20/This_Keyword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/office_hour/officeHour_01_27_20/This_Keyword.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/officeHours/Practice_20_01_08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/office_hour/Practice_20_01_08.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/officeHours/Practice_20_01_08_Task_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/office_hour/Practice_20_01_08_Task_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/officeHours/Practice_20_01_08_Task_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/office_hour/Practice_20_01_08_Task_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/officeHours/ScrumTeam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/office_hour/ScrumTeam.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/officeHours/Teams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/office_hour/Teams.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/officeHours/UserInfo_01_16_20/UserInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/office_hour/officeHour_01_16_20/UserInfo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/officeHours/day30_12_18_Review.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/office_hour/day30_12_18_Review.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/office_hour/Practice_16_1_2020/TestUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/office_hour/officeHour_01_16_2020/TestUser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/office_hour/day53OfficeHour_02_04_20/Device.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/office_hour/officeHour_02_04_20/Device.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/office_hour/day53OfficeHour_02_04_20/DeviceStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/office_hour/officeHour_02_04_20/DeviceStore.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/office_hour/day53OfficeHour_02_04_20/Samsung.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/office_hour/officeHour_02_04_20/Samsung.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/office_hour/day53OfficeHour_02_04_20/iPhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/office_hour/officeHour_02_04_20/iPhone.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -352,13 +167,21 @@
       <option name="project" value="LOCAL" />
       <updated>1580879722056</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="02_24_20">
+      <created>1582575707642</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1582575707642</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="New Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="New Commit" />
+    <MESSAGE value="02_24_20" />
+    <option name="LAST_COMMIT_MESSAGE" value="02_24_20" />
   </component>
   <component name="WindowStateProjectService">
     <state x="320" y="95" width="800" height="717" key="#Intentions" timestamp="1580862112910">
@@ -395,11 +218,11 @@
       <screen x="0" y="23" width="1440" height="812" />
     </state>
     <state x="458" y="183" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1440.-157.1920.1057/0.23.1440.812@0.23.1440.812" timestamp="1579646462544" />
-    <state x="345" y="30" key="CommitChangelistDialog2" timestamp="1580879720195">
+    <state x="345" y="30" key="CommitChangelistDialog2" timestamp="1582575706273">
       <screen x="0" y="23" width="1440" height="821" />
     </state>
     <state x="345" y="30" key="CommitChangelistDialog2/0.23.1440.816@0.23.1440.816" timestamp="1580879476882" />
-    <state x="345" y="30" key="CommitChangelistDialog2/0.23.1440.821@0.23.1440.821" timestamp="1580879720195" />
+    <state x="345" y="30" key="CommitChangelistDialog2/0.23.1440.821@0.23.1440.821" timestamp="1582575706273" />
     <state width="1398" height="244" key="GridCell.Tab.0.bottom" timestamp="1582575509263">
       <screen x="0" y="23" width="1440" height="821" />
     </state>
