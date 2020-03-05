@@ -5,4 +5,5 @@ public interface WebDriver {
     void navigateTo(String url);
     void maximise();
     void closeBrowser();
+
 }
