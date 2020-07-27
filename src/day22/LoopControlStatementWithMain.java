@@ -6,12 +6,10 @@ public class LoopControlStatementWithMain {
 //                       01234567890
         String myName = "kOsHtAmShEpEsHeShEpEsHkOsHeKaShMaKaShEsHaShPaRa";
 
-        for (int i = 0; i <=myName.length()-1; i++) {
-            if (i%2!=0){
-                continue;
+        for (int i = 0; i < myName.length(); i++) {
+            if (i % 2 == 0) {
+                System.out.print(myName.charAt(i));
             }
-
-            System.out.println(myName.charAt(i));
         }
     }
 }

@@ -38,8 +38,8 @@ to work with this type of data
         *
         * */
 
-        Integer i1 = new Integer(1000000000);
-        Integer i2 = Integer.valueOf(123);
+        Integer i1 = 1000000000;
+        Integer i2 = 123;
 
         // is i3 primitive type variable
         // is i3 reference type variable
@@ -48,7 +48,7 @@ to work with this type of data
 
         int i4 = 54;
         // Auto unboxing : wrapper type to primitive type conversion
-        int i5 = new Integer(100); // new Integer(100) -->> 100
+        int i5 = 100; // new Integer(100) -->> 100
 
         // AUTO BOXING AND UNBOXING IS UNIQUE FEATURE
         // OF CONVERSION BETWEEN PRIMITIVE VALUE WRAPPER CLASSES OBJECTS

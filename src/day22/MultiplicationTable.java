@@ -5,7 +5,7 @@ public class MultiplicationTable {
     public static void main(String[] args) {
 
         // Multiplication by 1
-        for (int base = 1; base < +12; base++) {
+        for (int base = 1; base < 11; base++) {
 
             System.out.println("1 x " + base + " = " + 1 * base);
 

@@ -11,21 +11,26 @@ public class StringArrayPractice_ClassCode {
         String myFavoriteShow = "Orville";
 //        System.out.println("myFavoriteShow = " + myFavoriteShow);
 //        System.out.println("my favorite show character count is : "  +  myFavoriteShow.length() );
-
-        System.out.println("myFavoriteShow =" + myFavoriteShow + " char count is :" + myFavoriteShow.length());
-
-
+//
+//        System.out.println("myFavoriteShow =" + myFavoriteShow + " char count is :" + myFavoriteShow.length());
+//
+//
         int showsCount = shows.length;
-        System.out.println("shows Count = " + showsCount);
+//        System.out.println("shows Count = " + showsCount);
 
+
+        //  System.out.print(" and it has character count : " + shows[x].length());
         for (int x = 0; x < showsCount; x++) {
-
-            //String currentShow =  shows[x] ;
-            //System.out.println(  currentShow  + " has character count : " +  currentShow.length()  );
-            System.out.println(shows[x] + " has character count : " + shows[x].length());
+            System.out.println("The show is " + shows[x] + " and it has character count of " + shows[x].length());
         }
-
+        // OR
+        for (String show : shows) {
+            System.out.println("The show is " + show + " and it has character count of " + show.length());
+        }
+        //String currentShow =  shows[x] ;
+        //System.out.println(  currentShow  + " has character count : " +  currentShow.length()  );
 
     }
+
 
 }

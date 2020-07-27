@@ -31,11 +31,17 @@ public class Earth extends Planet {
 
     @Override
     public String toString() {
+        try {
+            Thread.sleep(2000);
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
         return "Earth{" +
                 "population=" + population +
                 ", gravity=" + gravity +
                 ", radius=" + radius +
                 ", hasLife=" + hasLife +
                 '}';
+
     }
 }

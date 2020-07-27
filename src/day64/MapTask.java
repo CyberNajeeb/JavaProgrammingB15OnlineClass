@@ -1,13 +1,13 @@
 package day64;
 
-import java.util.HashMap;
+import java.util.LinkedHashMap;
 import java.util.Map;
 import java.util.Set;
 
 public class MapTask {
     public static void main(String[] args) {
 
-        Map<String, Double> groceryPriceMap = new HashMap<>();
+        Map<String, Double> groceryPriceMap = new LinkedHashMap<>();
         groceryPriceMap.put("Tomato", 1.99);
         groceryPriceMap.put("Patato", 2.99);
         groceryPriceMap.put("Grape", 3.99);

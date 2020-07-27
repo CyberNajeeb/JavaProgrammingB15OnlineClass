@@ -14,7 +14,28 @@ public class IteratingOverMapUsingLambda {
         groceryPriceMap.put("Apple", 1.89);
         groceryPriceMap.put("Orange", 1.89);
 
-        groceryPriceMap.forEach((name, price)->System.out.println(name + price));
+        groceryPriceMap.forEach((name, price) -> System.out.println(name + price));
+
+        System.out.println("Byte " + Byte.MAX_VALUE);
+        System.out.println("Float  " + Float.MAX_VALUE);
+        System.out.println("Short " + Short.MAX_VALUE);
+        System.out.println("Int " + Integer.MAX_VALUE);
+        System.out.println("Long " + Long.MAX_VALUE);
+        System.out.println("Double " + Double.MAX_VALUE);
+        System.out.println("Char " + Character.MAX_VALUE);
+
+        stringReverse("Zaki");
+
+    }
+
+
+    public static void stringReverse(String rev) {
+        StringBuffer stringBuffer = new StringBuffer(rev);
+        System.out.println(stringBuffer.reverse());
+    }
+
+    public void arr(String arrays) {
+
     }
 
 }
