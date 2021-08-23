@@ -16,10 +16,6 @@ class Main {
           dbb.set(0,"");
       }
 
-      for (int i = 0; i < db.length(); i++) {
-
-      }
-
     return "";
   }//end lameDb
   

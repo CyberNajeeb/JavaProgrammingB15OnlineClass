@@ -7,23 +7,6 @@ public class Rebootcamp {
 
     public static void main(String[] args) {
 
-        //isPalindrome("nurses run");
-        //System.out.println(passwordValidation(""));
-
-//        primeNumber(4);
-//        for (int i = 1; i <= 30; i++) {
-//            String result = "";
-//            if (i % 3 == 0)
-//                result = "FIN";
-//            if (i % 5 == 0)
-//                result += "RA";
-//            if (!result.isEmpty()) {
-//                System.out.println(i + " : " + result);
-//            }
-//        }
-        //System.out.println(primeNumber(5));
-        //System.out.println(primeNumber(5));
-//        System.out.println(arrayDups(new String[]{"A", "B", "C", "C"}));
     }
 
     public static boolean primeNumber(int num) {
@@ -70,14 +53,4 @@ public class Rebootcamp {
                 valid = true;
         return valid;
     }
-//    public static int arrayDups(String[] arr){
-//        List<String> arr2 = Arrays.asList(arr);
-//        for (int i = 0; i < arr2.size(); i++) {
-//            if (arr2.get(i).equals(arr2.get(i+1)))
-//                arr2.removeIf(p -> p.equals(i, i+1));
-//                System.out.println(arr.length);
-//        }
-////        arr = new int[]{1, 2, 3, 4, 5, 6, 6, 3};
-//        return arr2.size();
-//    }
 }

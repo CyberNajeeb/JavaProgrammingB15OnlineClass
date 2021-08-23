@@ -2,7 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a0a475fc-4c27-4064-8545-1bbbaf6905b7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AdHocPractice/MoveZerosToTheEndOfArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AdHocPractice/Parsing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AdHocPractice/Repl51.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AdHocPractice/Repl52.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AdHocPractice/Repl55.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AdHocPractice/Repl57.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AdHocPractice/Repl71.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AdHocPractice/WarmUp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day01/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AdHocPractice/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AdHocPractice/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AdHocPractice/Rebootcamp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AdHocPractice/Rebootcamp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AdHocPractice/ReplAssignment_186.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AdHocPractice/ReplAssignment_186.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day03/Practice04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day03/Practice04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day27/ArrayTask2MaxNumLookUp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day27/ArrayTask2MaxNumLookUp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day27/Multi3DimensionalArraysPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day27/Multi3DimensionalArraysPractice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/office_hour/office_hour_01_06/FibonacciNums.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/office_hour/office_hour_01_06/FibonacciNums.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,13 +50,18 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/day52/Polymorphism" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -60,48 +82,9 @@
       <recent name="$PROJECT_DIR$/src/day52/Polymorphism" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MapTask">
-    <configuration name="CharCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tasks.CharCount" />
-      <module name="untitled1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tasks.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MapTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day64.MapTask" />
-      <module name="untitled1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day64.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PasswordValidationTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tasks.PasswordValidationTask" />
-      <module name="untitled1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tasks.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Threading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AdHocPractice.Threading" />
+  <component name="RunManager" selected="Application.Practice04">
+    <configuration name="MoveZerosToTheEndOfArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AdHocPractice.MoveZerosToTheEndOfArray" />
       <module name="untitled1" />
       <extension name="coverage">
         <pattern>
@@ -113,23 +96,69 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WebTestDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="WebTestDemo" />
+    <configuration name="Practice04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day03.Practice04" />
       <module name="untitled1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Repl57" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AdHocPractice.Repl57" />
+      <module name="untitled1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AdHocPractice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Repl71" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AdHocPractice.Repl71" />
+      <module name="untitled1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AdHocPractice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReplAssignment_186" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AdHocPractice.ReplAssignment_186" />
+      <module name="untitled1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AdHocPractice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MapTask" />
-        <item itemvalue="Application.Threading" />
-        <item itemvalue="Application.CharCount" />
-        <item itemvalue="Application.WebTestDemo" />
-        <item itemvalue="Application.PasswordValidationTask" />
+        <item itemvalue="Application.Practice04" />
+        <item itemvalue="Application.MoveZerosToTheEndOfArray" />
+        <item itemvalue="Application.ReplAssignment_186" />
+        <item itemvalue="Application.Repl71" />
+        <item itemvalue="Application.Repl57" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -182,6 +211,17 @@
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.csv" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_NEW_TODO" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
@@ -190,76 +230,5 @@
     <MESSAGE value="07_27_20" />
     <option name="LAST_COMMIT_MESSAGE" value="07_27_20" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="332" y="23" key="CommitChangelistDialog2" timestamp="1595836538297">
-      <screen x="0" y="23" width="1440" height="813" />
-    </state>
-    <state x="332" y="23" key="CommitChangelistDialog2/0.23.1440.813@0.23.1440.813" timestamp="1595836538297" />
-    <state width="1398" height="242" key="GridCell.Tab.0.bottom" timestamp="1595836480818">
-      <screen x="0" y="23" width="1440" height="813" />
-    </state>
-    <state width="1398" height="242" key="GridCell.Tab.0.bottom/0.23.1440.812@0.23.1440.812" timestamp="1594882059443" />
-    <state width="1398" height="242" key="GridCell.Tab.0.bottom/0.23.1440.813@0.23.1440.813" timestamp="1595836480818" />
-    <state width="1398" height="243" key="GridCell.Tab.0.bottom/0.23.1440.814@0.23.1440.814" timestamp="1594786721501" />
-    <state width="1398" height="260" key="GridCell.Tab.0.bottom/0.23.1440.815@0.23.1440.815" timestamp="1594791690221" />
-    <state width="1398" height="242" key="GridCell.Tab.0.center" timestamp="1595836480817">
-      <screen x="0" y="23" width="1440" height="813" />
-    </state>
-    <state width="1398" height="242" key="GridCell.Tab.0.center/0.23.1440.812@0.23.1440.812" timestamp="1594882059442" />
-    <state width="1398" height="242" key="GridCell.Tab.0.center/0.23.1440.813@0.23.1440.813" timestamp="1595836480817" />
-    <state width="1398" height="243" key="GridCell.Tab.0.center/0.23.1440.814@0.23.1440.814" timestamp="1594786721499" />
-    <state width="1398" height="260" key="GridCell.Tab.0.center/0.23.1440.815@0.23.1440.815" timestamp="1594791690220" />
-    <state width="1398" height="242" key="GridCell.Tab.0.left" timestamp="1595836480816">
-      <screen x="0" y="23" width="1440" height="813" />
-    </state>
-    <state width="1398" height="242" key="GridCell.Tab.0.left/0.23.1440.812@0.23.1440.812" timestamp="1594882059441" />
-    <state width="1398" height="242" key="GridCell.Tab.0.left/0.23.1440.813@0.23.1440.813" timestamp="1595836480816" />
-    <state width="1398" height="243" key="GridCell.Tab.0.left/0.23.1440.814@0.23.1440.814" timestamp="1594786721498" />
-    <state width="1398" height="260" key="GridCell.Tab.0.left/0.23.1440.815@0.23.1440.815" timestamp="1594791690220" />
-    <state width="1398" height="242" key="GridCell.Tab.0.right" timestamp="1595836480818">
-      <screen x="0" y="23" width="1440" height="813" />
-    </state>
-    <state width="1398" height="242" key="GridCell.Tab.0.right/0.23.1440.812@0.23.1440.812" timestamp="1594882059442" />
-    <state width="1398" height="242" key="GridCell.Tab.0.right/0.23.1440.813@0.23.1440.813" timestamp="1595836480818" />
-    <state width="1398" height="243" key="GridCell.Tab.0.right/0.23.1440.814@0.23.1440.814" timestamp="1594786721500" />
-    <state width="1398" height="260" key="GridCell.Tab.0.right/0.23.1440.815@0.23.1440.815" timestamp="1594791690221" />
-    <state width="1398" height="260" key="GridCell.Tab.1.bottom" timestamp="1594791690223">
-      <screen x="0" y="23" width="1440" height="815" />
-    </state>
-    <state width="1398" height="260" key="GridCell.Tab.1.bottom/0.23.1440.814@0.23.1440.814" timestamp="1594786558733" />
-    <state width="1398" height="260" key="GridCell.Tab.1.bottom/0.23.1440.815@0.23.1440.815" timestamp="1594791690223" />
-    <state width="1398" height="260" key="GridCell.Tab.1.center" timestamp="1594791690222">
-      <screen x="0" y="23" width="1440" height="815" />
-    </state>
-    <state width="1398" height="260" key="GridCell.Tab.1.center/0.23.1440.814@0.23.1440.814" timestamp="1594786558732" />
-    <state width="1398" height="260" key="GridCell.Tab.1.center/0.23.1440.815@0.23.1440.815" timestamp="1594791690222" />
-    <state width="1398" height="260" key="GridCell.Tab.1.left" timestamp="1594791690222">
-      <screen x="0" y="23" width="1440" height="815" />
-    </state>
-    <state width="1398" height="260" key="GridCell.Tab.1.left/0.23.1440.814@0.23.1440.814" timestamp="1594786558732" />
-    <state width="1398" height="260" key="GridCell.Tab.1.left/0.23.1440.815@0.23.1440.815" timestamp="1594791690222" />
-    <state width="1398" height="260" key="GridCell.Tab.1.right" timestamp="1594791690222">
-      <screen x="0" y="23" width="1440" height="815" />
-    </state>
-    <state width="1398" height="260" key="GridCell.Tab.1.right/0.23.1440.814@0.23.1440.814" timestamp="1594786558733" />
-    <state width="1398" height="260" key="GridCell.Tab.1.right/0.23.1440.815@0.23.1440.815" timestamp="1594791690222" />
-    <state x="208" y="23" key="SettingsEditor" timestamp="1594881896895">
-      <screen x="0" y="23" width="1440" height="812" />
-    </state>
-    <state x="208" y="23" key="SettingsEditor/0.23.1440.812@0.23.1440.812" timestamp="1594881896895" />
-    <state x="208" y="23" key="SettingsEditor/0.23.1440.814@0.23.1440.814" timestamp="1594786174724" />
-    <state x="320" y="169" key="Vcs.Push.Dialog.v2" timestamp="1595836556037">
-      <screen x="0" y="23" width="1440" height="813" />
-    </state>
-    <state x="320" y="169" key="Vcs.Push.Dialog.v2/0.23.1440.813@0.23.1440.813" timestamp="1595836556037" />
-    <state x="385" y="194" key="run.anything.popup" timestamp="1594881809230">
-      <screen x="0" y="23" width="1440" height="812" />
-    </state>
-    <state x="385" y="194" key="run.anything.popup/0.23.1440.812@0.23.1440.812" timestamp="1594881809230" />
-    <state x="385" y="161" width="670" height="676" key="search.everywhere.popup" timestamp="1594786493919">
-      <screen x="0" y="23" width="1440" height="814" />
-    </state>
-    <state x="385" y="161" width="670" height="676" key="search.everywhere.popup/0.23.1440.814@0.23.1440.814" timestamp="1594786493919" />
   </component>
 </project>

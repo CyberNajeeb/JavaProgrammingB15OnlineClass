@@ -17,7 +17,7 @@ public class ArrayTask2MaxNumLookUp {
         int secondMax = nums[0];
         for (int i = 0; i < nums.length; i++) {
             if (secondMax < nums[i] && nums[i]!=max){
-                secondMax = max;
+                secondMax = nums[i];
 
 
             }

@@ -5,6 +5,9 @@ class ReplAssignment_186 {
     System.out.println(removeFirst("abc"));
   }
   public static String removeFirst(String target) {
-    return target.substring(1);
+      target = target.replace(target.substring(0, 1), "");
+      String result = target.replace(target.substring(target.length() - 1), "");
+
+      return target + " and " + result;
   }
 }
