@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a0a475fc-4c27-4064-8545-1bbbaf6905b7" name="Default Changelist" comment="07_27_20">
-      <change afterPath="$PROJECT_DIR$/myPersonalFile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AdHocPractice/ArrayPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tasks/PrimeFinder.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day01/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day01/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day22/ArrayIntro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day22/ArrayIntro.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
